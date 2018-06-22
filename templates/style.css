@@ -1,0 +1,116 @@
+.tabs{
+  display: inline-block;
+  margin-left: 20px;
+}
+
+nav{
+  border-bottom: .5px solid gray;
+}
+
+.blocks{
+  top:300px;
+  border-top: 10px solid black;
+  border-top: 3px solid #2F90D1;
+  border-left: 3px solid #2F90D1;
+  border-right: 3px solid #2F90D1;
+  border-bottom: 3px solid #2F90D1;
+  border-radius: 25px;
+  width:30%;
+  display: inline-block;
+  height: 450px;
+  margin-left: 5px;
+}
+
+.blockBody{
+  width:90%;
+}
+
+footer #footText{
+  display: block;
+  color: white;
+  top: 800px;
+  width: 100%;
+  position: absolute;
+  background-color: #4787C7;
+  text-align: left;
+
+}
+
+insert{
+  border-top: 2px solid gray;
+  border-bottom: 2px solid gray;
+  border-left: 2px solid gray;
+  border-right: 2px solid gray;
+  border-radius: 90px;
+  width:120px;
+  height:15px;
+  position: absolute;
+  top:30px;
+}
+
+#statement{
+  font-size: 20px;
+  font-weight: 500%;
+  margin-left: 28px;
+  margin-right: 28px;
+}
+
+#threeStep{
+  color: #2F90D1;
+  margin-left: 28px;
+  margin-right: 28px;
+  height: 20px;
+  display: flex;
+}
+
+#threeStepBlocks{
+}
+
+
+footer{
+  background: #2F90D1;
+}
+
+.circle{
+  border-top: 3px solid #2F90D1;
+  border-left: 3px solid #2F90D1;
+  border-bottom: 3px solid #2F90D1;
+  border-right: 3px solid #2F90D1;
+  border-radius: 100px;
+  height: 60px;
+  width: 60px;
+  position: relative;
+  right: 20px;
+  bottom: 30px;
+  text-align: center;
+  background-color: white;
+  font-size: 12px;
+  color: #2F90D1;
+}
+
+.logos{
+  display: inline-block;
+  border-top: 3px solid #2F90D1;
+  border-left: 3px solid #2F90D1;
+  border-bottom: 3px solid #2F90D1;
+  border-right: 3px solid #2F90D1;
+  height: 20px;
+  width: 20px;
+  margin-left: 8px;
+}
+
+footer .footerTop{
+  display: inline-block;
+}
+
+#topRightLogo{
+  position: absolute;
+  top: 8px;
+  right: 20px;
+  width: 50px;
+  height: 50px;
+  border-top: 3px solid #2F90D1;
+  border-left: 3px solid #2F90D1;
+  border-bottom: 3px solid #2F90D1;
+  border-right: 3px solid #2F90D1;
+}
